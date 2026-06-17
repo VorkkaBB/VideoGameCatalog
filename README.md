@@ -37,10 +37,13 @@ El objetivo principal de esta aplicación es mostrar un catálogo visual de vide
 
 ## 📂 Estructura Principal del Código
 
-1. **`MainActivity.kt`**: Punto de entrada de la aplicación que configura el tema principal y el contenedor `Scaffold`.
-2. **`GameListScreen` (Composable)**: Pantalla principal que gestiona el estado visual y (`LazyColumn`).
-3. **`GameCard` (Composable)**: Componente visual reutilizable que da formato a cada elemento individual (imagen, título y etiquetas de plataforma generadas dinámicamente).
-4. **`Game.kt` (Modelo)**: Contiene la clase de datos `Game` y la simulación de la base de datos local (`gameList`).
+1. [**`MainActivity.kt`**](app/src/main/java/com/example/videogamecatalog/MainActivity.kt): Punto de entrada de la aplicación que configura el tema principal y el contenedor `Scaffold`.
+
+2. [**`GameListScreen` (Composable)**](app/src/main/java/com/example/videogamecatalog/MainActivity.kt): Pantalla principal que gestiona el estado visual y orquesta la lista perezosa (`LazyColumn`).
+
+3. [**`GameCard` (Composable)**](app/src/main/java/com/example/videogamecatalog/MainActivity.kt): Componente visual reutilizable que da formato a cada elemento individual (imagen, título y etiquetas de plataforma generadas dinámicamente).
+
+4. [**`Game.kt` (Modelo)**](app/src/main/java/com/example/videogamecatalog/Game.kt): Contiene la clase de datos `Game` y la simulación de la base de datos local (`gameList`).
 
 ---
 
