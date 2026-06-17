@@ -157,9 +157,3 @@ fun GameCard(game: Game) {
         }
     }
 }
-
-@Preview(showBackground = true, showSystemUi = true)
-@Composable
-fun GameListScreenPreview() {
-    GameListScreen(games = gameList)
-}
