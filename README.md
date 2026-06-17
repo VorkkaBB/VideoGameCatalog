@@ -43,7 +43,7 @@ El objetivo principal de esta aplicación es mostrar un catálogo visual de vide
 
 3. [**`GameCard` (Composable)**](app/src/main/java/com/example/videogamecatalog/MainActivity.kt): Componente visual reutilizable que da formato a cada elemento individual (imagen, título y etiquetas de plataforma generadas dinámicamente).
 
-4. [**`Game.kt` (Modelo)**](app/src/main/java/com/example/videogamecatalog/Game.kt): Contiene la clase de datos `Game` y la simulación de la base de datos local (`gameList`).
+4. [**`GameData.kt` (Modelo)**](app/src/main/java/com/example/videogamecatalog/GameData.kt): Contiene la clase de datos `Game` y la simulación de la base de datos local (`gameList`).
 
 ---
 
