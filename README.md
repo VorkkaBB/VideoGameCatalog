@@ -4,6 +4,14 @@ Esta es una app de Android desarrollada en **Jetpack Compose**. **Unidad 3: List
 
 ---
 
+## 📱 Funcionamiento de la App
+
+<p align="center">
+  <img width="250" alt="App de Videojuegos Animada" src="https://github.com/user-attachments/assets/ef415d97-1604-499c-8e40-c990e30a0ac1" />
+</p>
+
+---
+
 ## 🎯 Objetivos del Proyecto
 
 El objetivo principal de esta aplicación es mostrar un catálogo visual de videojuegos:
@@ -39,9 +47,3 @@ El objetivo principal de esta aplicación es mostrar un catálogo visual de vide
 > **Nota:** La aplicación está diseñada con colores estáticos de tema oscuro para resaltar las portadas y etiquetas personalizadas de las plataformas.
 
 ---
-
-## 📱 Funcionamiento de la App
-
-<p align="center">
-  <img width="250" alt="App de Videojuegos Animada" src="https://github.com/user-attachments/assets/ef415d97-1604-499c-8e40-c990e30a0ac1" />
-</p>
